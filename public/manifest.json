@@ -1,0 +1,27 @@
+{
+  "name": "Criador de Outfits",
+  "short_name": "Outfits",
+  "description": "Cria o teu roupeiro digital e combina outfits.",
+  "start_url": "/roupeiro",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#1a1a1f",
+  "background_color": "#1a1a1f",
+  "lang": "pt",
+  "categories": ["lifestyle", "shopping"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
